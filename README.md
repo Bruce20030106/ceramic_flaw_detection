@@ -8,3 +8,4 @@ please finds some papers related to this project and hand out some descriptions 
 1. [瓷砖孔洞、污渍、缺角（不带分割标签）](https://tianchi.aliyun.com/competition/entrance/531846/information)
 
 深度学习教材：https://zh-v2.d2l.ai/chapter_introduction/index.html
+解析Faster R-CNN模型：https://zhuanlan.zhihu.com/p/31426458
