@@ -14,6 +14,8 @@
 *** 
 #### 区域建议网络（RPN）
 文章通过分析瓷砖瑕疵数据集，优化了锚点生成参数。文章增加了两种长宽比（0.2 和 5）并去掉了两种缩放比例（16 和 32）来生成锚框。文章声称这些参数可以更好地匹配瑕疵目标尺度，检测窄长的瑕疵和小的瑕疵。   
+![](https://github.com/OctoberEnd/verbose-invention/blob/main/%E5%8E%9F%E5%A7%8Banchor%20boxes.png?raw=true)
+![](https://github.com/OctoberEnd/verbose-invention/blob/main/%E6%94%B9%E8%BF%9B%E5%90%8E%E7%9A%84boxes.png?raw=true)
    
 **why?**
 - 原来的RPN中生成的锚框的大小和比例对候选区域生成部分有着十分重要的影响，**合适的锚框可以更多地检测出待测目标**，若锚框大小和目标大小相差较大，会使生成的候选区域不准确，从而严重影响模型性能和检测效果。
