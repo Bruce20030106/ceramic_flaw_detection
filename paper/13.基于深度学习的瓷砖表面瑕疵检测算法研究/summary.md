@@ -36,5 +36,5 @@
 1. 第一步是深度卷积，首先将多通道的特征图拆分为单一通道，然后使用 3×3×1 的卷积核对单一通道进行卷积，只改变特征图的尺寸，卷积完成后对其叠加；
 2. 第二步是点卷积，这里使用的卷积都是 1×1，只改变通道数，而不影响特征图的尺寸
 ![](https://github.com/OctoberEnd/verbose-invention/blob/main/pic/%E5%8F%AF%E5%88%86%E7%A6%BB%E5%8D%B7%E7%A7%AF.jpg?raw=true)
-![](https://github.com/OctoberEnd/verbose-invention/blob/main/pic/%E6%B7%B1%E5%BA%A6%E5%8F%AF%E5%88%86%E7%A6%BB%E5%8D%B7%E7%A7%AF.jpg?raw=true)
+![](https://github.com/OctoberEnd/verbose-invention/blob/main/pic/%E6%B7%B1%E5%BA%A6%E5%8F%AF%E5%88%86%E7%A6%BB%E5%8D%B7%E7%A7%AF.jpg?raw=true)   
 [网页介绍深度可分离卷积](https://paperswithcode.com/method/depthwise-separable-convolution)
