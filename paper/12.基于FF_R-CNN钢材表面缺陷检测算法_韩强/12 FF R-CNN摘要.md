@@ -8,7 +8,7 @@
 
 总的网络结构如图所示：
 
-![image-20230406153743647](C:\Users\Nico Yang\AppData\Roaming\Typora\typora-user-images\image-20230406153743647.png)
+![image-20230406153743647](https://user-images.githubusercontent.com/103879136/230808127-39e2e536-dba9-49ea-b168-ca305da655df.png)
 
 ## 主干网络部分（特征提取）
 
