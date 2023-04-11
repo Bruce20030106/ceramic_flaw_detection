@@ -69,3 +69,5 @@ Li J H, Quan X X, Wang Y L. Research on defect detection algorithm of ceramic ti
 [30] Li G, Liu X, Tao B, et al. Research on ceramic tile defect detection based on YOLOv3[J]. International Journal of Wireless and Mobile Computing, 2021, 21(2): 128-133.   
 [31] Zhang Z, Zhang Y, Wen Y, et al. Intelligent Defect Detection Method for Additive Manufactured Lattice Structures Based on a Modified YOLOv3 Model[J]. Journal of Nondestructive Evaluation, 2021, 41(1): 1-14.   
 [32] Lian J, He J, Niu Y, et al. Fast and accurate detection of surface defect based on improved YOLOv4[J]. Assembly Automation, 2022, 42(1): 134-146. 
+***
+可以找一些中国瓷砖市场发展的图
