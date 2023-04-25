@@ -1,6 +1,3 @@
-# ceramic_flaw_detection
-please finds some papers related to this project and hand out some descriptions of the paper your read about.
-
 ## 好东西！
 [深度学习代码逐行解读](https://nn.labml.ai/)
 ## 在github上找到的三个开源项目
@@ -12,3 +9,8 @@ please finds some papers related to this project and hand out some descriptions 
 
 ### 深度学习教材：https://zh-v2.d2l.ai/chapter_introduction/index.html   
 ### 解析Faster R-CNN模型：https://zhuanlan.zhihu.com/p/31426458
+
+## SVM
+1. [An Architecture Combining Convolutional Neural Network (CNN) and Linear Support Vector Machine (SVM) for Image Classification](https://github.com/AFAgarap/cnn-svm)
+2. [svm](https://github.com/xinlianghu/svm)
+3. [use SVM to segment Image in HSV color space](https://github.com/ABILIBILI/Image_Segmentation_based_on_color)
