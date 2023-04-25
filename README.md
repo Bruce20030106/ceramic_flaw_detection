@@ -15,7 +15,7 @@
 2. [svm](https://github.com/xinlianghu/svm)
 3. [use SVM to segment Image in HSV color space](https://github.com/ABILIBILI/Image_Segmentation_based_on_color)
 4. [Image-Classification-with-Color-feature-and-SVM](https://github.com/anh147/Image-Classification-with-Color-feature-and-SVM)
-5. [SVM Color Detector]([https://github.com/ABILIBILI/Image_Segmentation_based_on_color](https://github.com/stefanbo92/color-detector))
-6. [SVM-Image-Colorization]([https://github.com/ABILIBILI/Image_Segmentation_based_on_color](https://github.com/AriSpyrou/SVM-Image-Colorization))
+5. [SVM Color Detector](https://github.com/stefanbo92/color-detector)
+6. [SVM-Image-Colorization](https://github.com/AriSpyrou/SVM-Image-Colorization)
 
 
